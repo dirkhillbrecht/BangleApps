@@ -54,5 +54,23 @@
       {"name":"puzzle15.img","url":"puzzle15.app-icon.js","evaluate":true}
     ],
     "data": [{"name":"puzzle15.json"}]
+  },
+  {
+    "id": "antwsclk",
+    "name": "Anton Clock with seconds",
+    "version": "0.07",
+    "description": "A simple clock using the bold Anton font and optionally showing seconds.",
+    "icon": "app.png",
+    "screenshots": [{"url":"screenshot.png"}],
+    "type": "clock",
+    "tags": "clock",
+    "supports": ["BANGLEJS","BANGLEJS2"],
+    "allow_emulator": true,
+    "storage": [
+      {"name":"antwsclk.app.js","url":"antonws.app.js"},
+      {"name":"antwsclk.settings.js","url":"antonws.settings.js"},
+      {"name":"antwsclk.img","url":"app-icon.js","evaluate":true}
+    ],
+    "data": [{"name":"antwsclk.json"}]
   }
 ]
