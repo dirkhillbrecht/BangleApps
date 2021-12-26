@@ -6,3 +6,4 @@
 0.06: Internal cleanup release
 0.07: Equivalent to first pull request of "Anton clock"
 0.08: Equivalent to second pull request of "Anton clock" (color of secs, date on secs configurable, minor formatting issues)
+0.09: Equivalent of third change to "Anton clock" pull request (re-enable 6x8 font for date/dow and make it configurable)
