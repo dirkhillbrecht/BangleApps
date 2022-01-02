@@ -22,7 +22,7 @@ DEVICEINFO = DEVICEINFO.filter(x=>x.id.startsWith("BANGLEJS"));
   let username = "espruino";
   let githubMatch = window.location.href.match(/\/(\w+)\.github\.io/);
   if (githubMatch) username = githubMatch[1];
-  Const.APP_SOURCECODE_URL = `https://github.com/${username}/BangleApps/tree/master/apps`;
+  Const.APP_SOURCECODE_URL = `https://github.com/${username}/BangleApps/tree/dh/apps`;
 })();
 
 // When a device is found, filter the apps accordingly
