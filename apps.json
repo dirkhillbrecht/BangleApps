@@ -58,7 +58,7 @@
   {
     "id": "antwsclk",
     "name": "Anton Clock with seconds",
-    "version": "0.09",
+    "version": "0.10",
     "description": "A simple clock using the bold Anton font and optionally showing seconds.",
     "readme":"README.md",
     "icon": "app.png",
