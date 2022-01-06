@@ -1,10 +1,1 @@
-0.01: New App!
-0.02: Load widgets after setUI so widclk knows when to hide
-0.03: Clock now shows day of week under date.
-0.04: Mode to show seconds
-0.05: Internal cleanup release
-0.06: Internal cleanup release
-0.07: Equivalent to first pull request of "Anton clock"
-0.08: Equivalent to second pull request of "Anton clock" (color of secs, date on secs configurable, minor formatting issues)
-0.09: Equivalent of third change to "Anton clock" pull request (re-enable 6x8 font for date/dow and make it configurable)
-0.10: Smaller Anton font for seconds, colon in front of seconds configurabe, weekday or year on seconds screen configurable, settings simplified
+0.11: Scheduled for removal as changes have been merged into "Anton clock"
